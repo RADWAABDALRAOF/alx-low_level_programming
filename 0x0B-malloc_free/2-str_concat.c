@@ -1,9 +1,11 @@
 #include "main.h"
 #include <stdlib.h>
 /**
+ * Description :for str_concat
  * str_concat - get ends of input and add together for size
  * @s1: input one to concat
  * @s2:  two to concat* Return: concat of s1
+ * Return :syt concot
  */
 char *str_concat(char *s1, char *s2)
 {
